@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onu-daniel&show_icons=true&locale=en&theme=onedark-duo" alt="onu-daniel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onu-daniel&theme=onedark-duo)" alt="onu-daniel" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Onu-Daniel&theme=onedark-duo)](https://git.io/streak-stats)
