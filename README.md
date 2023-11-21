@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/onu__daniel" target="blank"><img src="https://img.shields.io/twitter/follow/onu__daniel?logo=twitter&style=for-the-badge" alt="onu__daniel" /></a> </p>
 
-- 🌱 I’m currently learning **ethereum blockchain development**
-
-- 👯 I’m looking to collaborate on **building a decentralized drug verification app**
+- 🌱 I’m currently building an **NFT fractionalization App**
 
 - 💬 Ask me about **web3 and blockchain**
 
